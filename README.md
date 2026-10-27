@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # InsightAI
 
 AI Business Intelligence SaaS MVP for retail and medical-store style businesses.
@@ -65,3 +66,7 @@ Required production variables:
 - GOOGLE_API_KEY
 
 Do not upload your `.env` file to GitHub.
+=======
+# InsightAi
+AI-powered business analytics assistant
+>>>>>>> 6dfaf7f5f35d480ce5ea53f61c8f6cde8d7284f9
